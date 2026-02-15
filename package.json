@@ -1,0 +1,14 @@
+{
+  "name": "sender-bug-v3-pro",
+  "version": "3.0.0",
+  "description": "Professional Sender Bug System",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "@whiskeysockets/baileys": "^6.5.0",
+    "pino": "^8.14.1"
+  }
+}
